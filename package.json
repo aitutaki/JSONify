@@ -1,0 +1,12 @@
+{
+  "name": "JSONify",
+  "version": "0.1.0",
+  "description": "JSONify",
+  "author": "Aitutaki Limited",
+  "license": "All Rights Reserved",
+  "dependencies": {
+    "line-by-line": "*"
+  },
+  "devDependencies": {
+  }
+}
